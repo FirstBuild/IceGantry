@@ -34,4 +34,4 @@ Any stepper motor driver that uses a direction and step input could be used, suc
 
 Uses the [InputOutput](https://github.com/Mokolea/InputDebounce) library.
 
-
+ASCII diagram created with the aweseom [asciiflow](http://asciiflow.com/).
